@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codingcity.in/](https://codingcity.in/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, php, Wordpress, Shopify**
+- 💬 Ask me about **HTML, CSS, Javascript, React, WordPress, Shopify**
 
 - 📫 How to reach me **ravi807609@gmail.com**
 

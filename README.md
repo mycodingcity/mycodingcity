@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Ravi Chaudhary</h1>
-<h3 align="center">A passionate about the frontend developement from India</h3>
+<h3 align="center">I am frontend Developer || Graphics Designer</h3>
 
 <img align="right" alt="mycodingcity" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-<p align="left"> <a href="https://twitter.com/ravi807609" target="blank"><img src="https://img.shields.io/twitter/follow/@ravi807609?logo=twitter&style=for-the-badge" alt="@ravi807609" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ravi-chaudhary-coding-city/" target="blank"><img src="https://img.shields.io/twitter/follow/@ravi807609?logo=twitter&style=for-the-badge" alt="www.linkedin.com/in/ravi-chaudhary-coding-city" /></a> </p>
 
 - 🔭 I’m currently working on [The Exam Guru](https://www.theexamguru.com/)
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Front-end Development**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://codingcity.in/](https://codingcity.in/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, WordPress, Shopify**
+- 💬 Ask me about **HTML, CSS, Javascript, React, WordPress, Shopify, NodeJs, ExpressJS, MongoDB**
 
 - 📫 How to reach me **ravi807609@gmail.com**
 
